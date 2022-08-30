@@ -1,3 +1,5 @@
-# pl-with-gcn
+# Protein-Ligand binding sites prediction using Graph Convolutional Networks (GCN)
 
-In progress...
+
+This is the code repository for my master's thesis : Protein-Ligand binding sites prediction using Graph Convolutional Networks (GCN)
+
