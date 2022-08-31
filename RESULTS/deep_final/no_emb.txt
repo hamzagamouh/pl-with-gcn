@@ -1,0 +1,14 @@
+Using backend: pytorch
+HELLO !
+CUDA is available !!
+BEGIN TRAINING 
+No Embedding !!
+CV Fold : fold_0_
+Layers :  [21, 512, 512, 512, 512, 512, 512, 2]
+Dropout rate :  0.3
+Using Batch Normalization
+Training for 1000 Epochs 
+Batch size :  32
+Training model...
+Evaluating on test set ...
+Test MCC  0.07783289466763874

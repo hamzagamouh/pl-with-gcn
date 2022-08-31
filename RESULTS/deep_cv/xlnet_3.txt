@@ -1,0 +1,31 @@
+Using backend: pytorch
+HELLO !
+CUDA is available !!
+BEGIN TRAINING 
+Embedding :  xlnet
+CV Fold : fold_3_
+Layers :  [1024, 512, 512, 512, 512, 512, 512, 2]
+Dropout rate :  0
+Training for 1000 Epochs 
+Batch size :  32
+In epoch 0, loss: 0.584, train mcc : 0.166 , val mcc : 0.222
+In epoch 50, loss: 0.533, train mcc : 0.445 , val mcc : 0.273
+In epoch 100, loss: 0.467, train mcc : 0.467 , val mcc : 0.251
+In epoch 150, loss: 0.433, train mcc : 0.492 , val mcc : 0.270
+In epoch 200, loss: 0.409, train mcc : 0.500 , val mcc : 0.277
+In epoch 250, loss: 0.415, train mcc : 0.499 , val mcc : 0.287
+In epoch 300, loss: 0.425, train mcc : 0.512 , val mcc : 0.277
+In epoch 350, loss: 0.372, train mcc : 0.521 , val mcc : 0.281
+In epoch 400, loss: 0.449, train mcc : 0.532 , val mcc : 0.274
+In epoch 450, loss: 0.397, train mcc : 0.541 , val mcc : 0.277
+In epoch 500, loss: 0.387, train mcc : 0.545 , val mcc : 0.280
+In epoch 550, loss: 0.405, train mcc : 0.536 , val mcc : 0.271
+In epoch 600, loss: 0.436, train mcc : 0.519 , val mcc : 0.272
+In epoch 650, loss: 0.416, train mcc : 0.556 , val mcc : 0.277
+In epoch 700, loss: 0.410, train mcc : 0.552 , val mcc : 0.280
+In epoch 750, loss: 0.413, train mcc : 0.551 , val mcc : 0.281
+In epoch 800, loss: 0.425, train mcc : 0.559 , val mcc : 0.275
+In epoch 850, loss: 0.389, train mcc : 0.570 , val mcc : 0.288
+In epoch 900, loss: 0.440, train mcc : 0.577 , val mcc : 0.284
+In epoch 950, loss: 0.419, train mcc : 0.571 , val mcc : 0.261
+In epoch 1000, loss: 0.413, train mcc : 0.587 , val mcc : 0.266
